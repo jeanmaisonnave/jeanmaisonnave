@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jeanmaisonnave
-- 👀 I’m interested in cybersecurity/cyberdefense
-- 🌱 I’m currently learning everything I can in cybersecurity
-- 💞️ I’m looking for an apprenticeship in cyberdefense/cybersecurity for next semptember
+- 👨‍🎓 Currently in last year of my master degree in computing science
+- 🌱 I’m currently learning everything I can about cybersecurity
 - 📫 How to reach me : jeanmaisonnave@wanadoo.fr
 
 <!---
