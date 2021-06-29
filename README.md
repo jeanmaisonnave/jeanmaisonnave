@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeanmaisonnave
-- 👨‍🎓 Currently in last year of my master degree in computing science
+- 👨‍🎓 Currently in last year of my master degree in computer science
 - 🌱 I’m currently learning everything I can about cybersecurity
 - 📫 How to reach me : jeanmaisonnave@wanadoo.fr
 
