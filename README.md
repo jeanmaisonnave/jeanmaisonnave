@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jeanmaisonnave
-- 👨‍🎓 Currently in last year of my master degree in computer science
-- 🌱 I’m currently learning everything I can about cybersecurity
-- 📫 How to reach me : jeanmaisonnave@wanadoo.fr
+ENSIBS student intrested in cybersec, CTF player
 
 <!---
 jeanmaisonnave/jeanmaisonnave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
